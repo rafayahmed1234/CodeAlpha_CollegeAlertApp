@@ -1,0 +1,12 @@
+<!-- res/drawable/ic_history.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorOnSurface">
+
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M13,3a9,9 0,1 0,9 9h-2a7,7 0,1 1,-7 -7V3l3.89,3.89 -1.41,1.41L13,6.83V12h5v-2h-3V6.83l-1.89,-1.89L13,3z"/>
+</vector>

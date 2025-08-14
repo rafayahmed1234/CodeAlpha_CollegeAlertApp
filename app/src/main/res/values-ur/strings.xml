@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کیمپس الرٹ</string>
+
+    <!-- Settings Screen Strings -->
+    <string name="settings_title">ترتیبات</string>
+    <string name="account_section_title">اکاؤنٹ</string>
+    <string name="profile_settings_title">پروفائل ترتیبات</string>
+    <string name="profile_settings_subtitle">اپنی ذاتی معلومات کو اپ ڈیٹ کریں</string>
+    <string name="change_password_title">پاس ورڈ تبدیل کریں</string>
+    <string name="change_password_subtitle">اپنا لاگ ان پاس ورڈ اپ ڈیٹ کریں</string>
+
+    <string name="notifications_section_title">اطلاعات</string>
+    <string name="push_notifications_title">پش اطلاعات</string>
+    <string name="push_notifications_subtitle">الرٹس اور اپ ڈیٹس وصول کریں</string>
+    <string name="email_notifications_title">ای میل اطلاعات</string>
+    <string name="email_notifications_subtitle">ای میل کے ذریعے اپ ڈیٹس حاصل کریں</string>
+
+    <string name="privacy_section_title">رازداری اور سیکیورٹی</string>
+    <string name="privacy_policy_title">رازداری کی پالیسی</string>
+    <string name="privacy_policy_subtitle">ہماری رازداری کی پالیسی پڑھیں</string>
+    <string name="terms_conditions_title">شرائط و ضوابط</string>
+    <string name="terms_conditions_subtitle">شرائط و ضوابط پڑھیں</string>
+
+    <string name="app_settings_section_title">ایپ کی ترتیبات</string>
+    <string name="dark_mode_title">ڈارک موڈ</string>
+    <string name="dark_mode_subtitle">ڈارک تھیم پر سوئچ کریں</string>
+    <string name="language_title">زبان</string>
+    <string name="language_subtitle">اردو</string>
+
+    <string name="about_section_title">کے بارے میں</string>
+    <string name="about_app_title">کیمپس الرٹ کے بارے میں</string>
+    <string name="about_app_subtitle">ورژن 1.0.0</string>
+    <string name="logout_title">لاگ آؤٹ</string>
+    <string name="logout_subtitle">اپنے اکاؤنٹ سے سائن آؤٹ کریں</string>
+</resources>

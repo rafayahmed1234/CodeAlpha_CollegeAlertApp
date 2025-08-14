@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CollegeAlertApp</string>
+
+    <!-- Settings Screen Strings -->
+    <string name="settings_title" translatable="false">Settings</string>
+    <string name="account_section_title" translatable="false">Account</string>
+    <string name="profile_settings_title" translatable="false">Profile Settings</string>
+    <string name="profile_settings_subtitle" translatable="false">Update your personal information</string>
+    <string name="change_password_title" translatable="false">Change Password</string>
+    <string name="change_password_subtitle" translatable="false">Update your login password</string>
+
+    <string name="notifications_section_title" translatable="false">Notifications</string>
+    <string name="push_notifications_title" translatable="false">Push Notifications</string>
+    <string name="push_notifications_subtitle" translatable="false">Receive alerts and updates</string>
+    <string name="email_notifications_title" translatable="false">Email Notifications</string>
+    <string name="email_notifications_subtitle" translatable="false">Get updates via email</string>
+
+    <string name="privacy_section_title" translatable="false">Privacy &amp; Security</string>
+    <string name="privacy_policy_title" translatable="false">Privacy Policy</string>
+    <string name="privacy_policy_subtitle" translatable="false">Read our privacy policy</string>
+    <string name="terms_conditions_title" translatable="false">Terms &amp; Conditions</string>
+    <string name="terms_conditions_subtitle" translatable="false">Read terms and conditions</string>
+
+    <string name="app_settings_section_title" translatable="false">App Settings</string>
+    <string name="dark_mode_title" translatable="false">Dark Mode</string>
+    <string name="dark_mode_subtitle" translatable="false">Switch to dark theme</string>
+    <string name="language_title" translatable="false">Language</string>
+    <string name="language_subtitle" translatable="false">English (Default)</string>
+
+    <string name="about_section_title" translatable="false">About</string>
+    <string name="about_app_title" translatable="false">About CampusAlert</string>
+    <string name="about_app_subtitle" translatable="false">Version 1.0.0</string>
+    <string name="logout_title" translatable="false">Logout</string>
+    <string name="logout_subtitle" translatable="false">Sign out from your account</string>
+</resources>

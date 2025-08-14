@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusAlert</string>
+
+    <!-- Settings Screen Strings -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="account_section_title">الحساب</string>
+    <string name="profile_settings_title">إعدادات الملف الشخصي</string>
+    <string name="profile_settings_subtitle">تحديث معلوماتك الشخصية</string>
+    <string name="change_password_title">تغيير كلمة المرور</string>
+    <string name="change_password_subtitle">تحديث كلمة مرور تسجيل الدخول الخاصة بك</string>
+
+    <string name="notifications_section_title">الإشعارات</string>
+    <string name="push_notifications_title">دفع الإخطارات</string>
+    <string name="push_notifications_subtitle">تلقي التنبيهات والتحديثات</string>
+    <string name="email_notifications_title">إشعارات البريد الإلكتروني</string>
+    <string name="email_notifications_subtitle">احصل على التحديثات عبر البريد الإلكتروني</string>
+
+    <string name="privacy_section_title">الخصوصية والأمان</string>
+    <string name="privacy_policy_title">سياسة الخصوصية</string>
+    <string name="privacy_policy_subtitle">اقرأ سياسة الخصوصية الخاصة بنا</string>
+    <string name="terms_conditions_title">الأحكام والشروط</string>
+    <string name="terms_conditions_subtitle">اقرأ الأحكام والشروط</string>
+
+    <string name="app_settings_section_title">إعدادات التطبيق</string>
+    <string name="dark_mode_title">الوضع الداكن</string>
+    <string name="dark_mode_subtitle">التبديل إلى المظهر الداكن</string>
+    <string name="language_title">اللغة</string>
+    <string name="language_subtitle">العربية</string>
+
+    <string name="about_section_title">حول</string>
+    <string name="about_app_title">حول CampusAlert</string>
+    <string name="about_app_subtitle">الإصدار 1.0.0</string>
+    <string name="logout_title">تسجيل الخروج</string>
+    <string name="logout_subtitle">تسجيل الخروج من حسابك</string>
+</resources>
